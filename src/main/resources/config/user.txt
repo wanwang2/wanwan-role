@@ -1,0 +1,5 @@
+#user
+
+root:
+	1, lookAll
+	2, editAll

@@ -1,0 +1,7 @@
+#role
+
+lookAll
+
+	1,permission
+		lookNormal
+		lookManagent
